@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #AA67D5
+;
+}
+
+footer {
+   background-color: #AA67D5; 
+}
+header img {
+    margin: 10px 10px 10px 10px
+}
+footer p {
+    background-color: white;
+    border: 10px solid #AA67D5;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
